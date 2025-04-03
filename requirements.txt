@@ -1,0 +1,10 @@
+flask==3.0.2
+flask-socketio==5.3.6
+python-engineio==4.9.0
+python-socketio==5.11.2
+google-generativeai==0.3.2
+speech_recognition==3.10.0
+gTTS==2.4.0
+pygame==2.5.2
+python-dotenv==1.0.1
+eventlet==0.33.3
